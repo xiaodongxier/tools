@@ -1,0 +1,11 @@
+{
+  "name": "xiaodongxier",
+  "version": "1.0.0",
+  "description": "xiaodongxier.com",
+  "main": "index.js",
+  "scripts": {
+    "push": "git add . && git commit -m '快捷push' && git push"
+  },
+  "author": "xiaodongxier",
+  "license": "ISC"
+}
